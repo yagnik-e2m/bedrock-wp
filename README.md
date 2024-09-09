@@ -13,6 +13,7 @@ Before starting, make sure you have the following installed on your machine:
 - [Git Clone] https://github.com/roots/bedrock.git
 - Build PHP Docker Image
 - Update the docker-compose.yml
+- nginx.conf reference file available on Git Repository.
 
 ## Project Structure
 
